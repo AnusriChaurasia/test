@@ -7,3 +7,5 @@ from socket import socket'''
 import folium
 m = folium.Map(location=[45.5236, -122.6750], zoom_start=4, title='Stamen Terrain')
 m
+
+''' Folium
