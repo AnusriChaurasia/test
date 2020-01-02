@@ -9,3 +9,4 @@ m = folium.Map(location=[45.5236, -122.6750], zoom_start=4, title='Stamen Terrai
 m
 
 ''' Folium
+can u see the changes now ?'''
